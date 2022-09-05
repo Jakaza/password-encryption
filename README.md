@@ -9,7 +9,7 @@ That simple step protects your password while it's sitting in a server, and it o
 
 #### How Do Password Encryption Methods Work?
 
-![alt text](https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2021-10/id101-password-encryption.png)
+![Steps On How Encryption Works](https://www.okta.com/sites/default/files/styles/1640w_scaled/public/media/image/2021-10/id101-password-encryption.png)
 
 
 
